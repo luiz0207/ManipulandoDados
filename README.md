@@ -1,2 +1,2 @@
-# Exercicios-javascript
+# JavaScript
 Praticando
